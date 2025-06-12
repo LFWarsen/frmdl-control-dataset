@@ -8,3 +8,7 @@ I provide:
 - A dissimilar test set
 
 The global discriminative patterns to distinguish between are varying frequency sinusoidal waves going either horizontally (class A), or vertically (class B).
+
+(To be continued)
+
+dataset download url: https://drive.google.com/file/d/1XE4wSlPS1WlYu9O7N95EO2aTk9mJPVQo/view?usp=sharing
