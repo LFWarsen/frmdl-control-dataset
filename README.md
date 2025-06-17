@@ -12,9 +12,9 @@ My control dataset aims to provide a means of determining whether CNNs would exp
 position when trained on global discriminative patterns, as opposed to local patterns.
 
 I provide:
-- A training set with positional bias
-- A similar test set
-- A dissimilar test set
+- A training set with positional bias (10000 samples, 50/50 split)
+- A similar test set (1000 samples, 50/50 split)
+- A dissimilar test set (1000 samples, 50/50 split)
 
 The patterns that we want to distinguish between are:
 - Class A, vertical sinusoidal waves (appearing as horizontal lines) of varying frequency and phase
@@ -62,3 +62,4 @@ Dataset download url: https://drive.google.com/file/d/1XE4wSlPS1WlYu9O7N95EO2aTk
 [4] S. Karayev, A. Hertzmann, H. Winnemoeller, A. Agarwala, & T. Darrell (2014): [Recognizing Image Style](https://arxiv.org/abs/1311.3715)
 
 [5] L. David, H. Pedrini, Z. Dias & A. Rocha (2021): [Connoisseur: Provenance Analysis in Paintings](https://doi.org/10.1109/SSCI50451.2021.9659547)
+
